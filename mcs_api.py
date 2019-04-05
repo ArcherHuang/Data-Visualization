@@ -46,8 +46,8 @@ def post_to_mcs(payload):
   print(r.url)
 
 while True:
-    h0 = random.randint(0,30)
-    t0 = random.randint(0,30)
-    payload = {"datapoints":[{"dataChnId":"Humidity","values":{"value":h0}},{"dataChnId":"Temperature","values":{"value":t0}}]}
-    post_to_mcs(payload)
-    time.sleep(10)
+  h0 = random.randint(0,30)
+  t0 = random.randint(0,30)
+  payload = {"datapoints":[{"dataChnId":"Humidity","values":{"value":h0}},{"dataChnId":"Temperature","values":{"value":t0}}]}
+  post_to_mcs(payload)
+  time.sleep(10)
