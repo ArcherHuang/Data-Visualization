@@ -1,4 +1,27 @@
 # pip install requests
+# 
+# URL
+#   host = http://api.mediatek.com
+#   endpoint = /mcs/v2/devices/ + deviceId + /datapoints
+# 
+# Header
+#   Content-type: application/json
+#   deviceKey: DeviceKey
+# 
+# Payload
+# {
+# 	"datapoints": [{
+# 		"dataChnId": "Humidity",
+# 		"values": {
+# 			"value": h0
+# 		}
+# 	}, {
+# 		"dataChnId": "Temperature",
+# 		"values": {
+# 			"value": t0
+# 		}
+# 	}]
+# }
 
 import time
 import requests
