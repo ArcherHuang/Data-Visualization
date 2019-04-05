@@ -1,5 +1,8 @@
 # pip install requests
 # 
+# MediaTek Cloud Sandbox (MCS)
+#   https://mcs.mediatek.com
+# 
 # URL
 #   host = http://api.mediatek.com
 #   endpoint = /mcs/v2/devices/ + deviceId + /datapoints
