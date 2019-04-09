@@ -5,7 +5,7 @@
 * JSON 與 XML
   * 簡介
 * 感測資料收集與資料視覺化
-  * 1.MediaTek Cloud Sandbox
+  * 1、MediaTek Cloud Sandbox
     * [1.1 實作情境]()
     * [1.2 MCS 註冊](https://oranwind.org/-mcs-mediatek-cloud-sandbox-zhu-ce-jiao-xue/)
     * [1.3 MCS 設定](https://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs-api/)
