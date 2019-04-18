@@ -21,7 +21,7 @@
        * [Windows 登入 AWS EC2 教學](https://oranwind.org/-aws-windows-deng-ru-aws-ec2-jiao-xue/)
     * [2.6 在 AWS EC2 安裝 Mosquitto MQTT Broker](https://oranwind.org/-mqtt-zai-aws-ec2-an-zhuang-mosquitto/)
     * [2.7 MQTTlens 串接 Mosquitto MQTT Broker](https://oranwind.org/-mqtt-mqttlens-chuan-jie-mosquitto-mqtt-broker/)
-    * [2.8 在 AWS EC2 安裝 Node-RED]()
+    * [2.8 在 AWS EC2 安裝 Node-RED](https://oranwind.org/-aws-zai-aws-ec2-an-zhuang-node-red/)
     * [2.9 Node-RED 設定串接 Mosquitto]()
     * [2.10 Node-RED 設定 Dashboard]()
     * [2.11 設備端串接 Mosquitto]()
