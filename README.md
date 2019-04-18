@@ -8,7 +8,7 @@
   * 1、MediaTek Cloud Sandbox
     * [1.1 實作情境](https://oranwind.org/-data-visualization-gan-ce-zi-liao-shou-ji-yu-zi-liao-shi-jue-hua-shi-zuo-qing-jing-mcs/)
     * [1.2 MCS 註冊](https://oranwind.org/-mcs-mediatek-cloud-sandbox-zhu-ce-jiao-xue/)
-    * [1.3 MCS 設定](https://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs-api/)
+    * [1.3 MCS 設定](https://oranwind.org/-mcs-mediatek-cloud-sandbox-she-ding/)
     * [1.4 Postman 串接 MCS]()
     * [1.5 設備端串接 MCS]()
   * 2、Node-RED
