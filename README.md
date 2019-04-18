@@ -24,7 +24,7 @@
     * [2.8 在 AWS EC2 安裝 Node-RED](https://oranwind.org/-aws-zai-aws-ec2-an-zhuang-node-red/)
     * [2.9 Node-RED 設定串接 Mosquitto MQTT Broker](https://oranwind.org/-mqtt-node-red-she-ding-chuan-jie-mosquitto/)
     * [2.10 Node-RED 設定 Dashboard](https://oranwind.org/-data-visualization-node-red-she-ding-dashboard/)
-    * [2.11 Python 串接 Mosquitto]()
+    * [2.11 Python 串接 Mosquitto](https://oranwind.org/-data-visualization-python-chuan-jie-mosquitto-mqtt-broker/)
   * 3、Grafana
     * [3.1 實作情境]()
     * [3.2 AWS 註冊](https://oranwind.org/-aws-zhu-ce-aws-zhang-hao/)
