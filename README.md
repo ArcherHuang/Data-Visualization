@@ -13,7 +13,7 @@
     * [1.5 Python 串接 MCS](https://oranwind.org/-data-visualization-python-chuan-jie-mcs/)
   * 2、Node-RED
     * [2.1 實作情境]()
-    * [2.2 AWS 註冊](https://oranwind.org/-aws-zhu-ce-aws-zhang-hao/)
+    * [2.2 AWS 帳號註冊](https://oranwind.org/-aws-zhu-ce-aws-zhang-hao/)
     * [2.3 在 AWS EC2 安裝 Ubuntu]()
     * [2.4 在 AWS EC2 安裝 Mosquitto](https://oranwind.org/-edge-zai-ubuntu-an-zhuang-mosquitto-mqtt-broker-part-2/)
     * [2.5 MQTTlens 串接 Mosquitto]()
