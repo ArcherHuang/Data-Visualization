@@ -12,7 +12,7 @@
     * [1.4 Postman 串接 MCS](https://oranwind.org/-data-visualization-postman-chuan-jie-mcs/)
     * [1.5 Python 串接 MCS](https://oranwind.org/-data-visualization-python-chuan-jie-mcs/)
   * 2、Node-RED
-    * [2.1 實作情境]()
+    * [2.1 實作情境](https://oranwind.org/-data-visualization-gan-ce-zi-liao-shou-ji-yu-zi-liao-shi-jue-hua-shi-zuo-qing-jing-node-red/)
     * [2.2 AWS 帳號註冊](https://oranwind.org/-aws-zhu-ce-aws-zhang-hao/)
     * [2.3 在 AWS EC2 安裝 Ubuntu]()
     * [2.4 在 AWS EC2 安裝 Mosquitto](https://oranwind.org/-edge-zai-ubuntu-an-zhuang-mosquitto-mqtt-broker-part-2/)
