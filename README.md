@@ -33,10 +33,10 @@
     * 3.5 Windows 登入 AWS EC2 教學
        * [將 AWS EC2 的 .pem 檔轉換為 .ppk 檔教學](https://oranwind.org/-aws-jiang-aws-ec2-de-pem-dang-zhuan-huan-wei-ppk-dang-jiao-xue/)
        * [Windows 登入 AWS EC2 教學](https://oranwind.org/-aws-windows-deng-ru-aws-ec2-jiao-xue/)
-    * [3.6 在 AWS EC2 安裝 Mosquitto](https://oranwind.org/-edge-zai-ubuntu-an-zhuang-mosquitto-mqtt-broker-part-2/)
-    * [3.7 MQTTlens 串接 Mosquitto]()
+    * [3.6 在 AWS EC2 安裝 Mosquitto MQTT Broker](https://oranwind.org/-mqtt-zai-aws-ec2-an-zhuang-mosquitto/)
+    * [3.7 MQTTlens 串接 Mosquitto MQTT Broker]()
     * [3.8 在 AWS EC2 安裝 Node-RED]()
-    * [3.9 Node-RED 設定串接 Mosquitto]()
+    * [3.9 Node-RED 設定串接 Mosquitto MQTT Broker]()
     * [3.10 在 AWS EC2 安裝 InfluxDB]()
     * [3.11 在 AWS EC2 安裝 Grafana]()
     * [3.12 Node-RED 串接 InfluxDB]()
