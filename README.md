@@ -28,7 +28,7 @@
   * 3、Grafana
     * [3.1 實作情境](https://oranwind.org/-data-visualization-gan-ce-zi-liao-shou-ji-yu-zi-liao-shi-jue-hua-shi-zuo-qing-jing-grafana/)
     * [3.2 AWS 註冊](https://oranwind.org/-aws-zhu-ce-aws-zhang-hao/)
-    * [3.3 在 AWS EC2 安裝 Ubuntu]()
+    * [3.3 在 AWS EC2 安裝 Ubuntu](https://oranwind.org/-aws-zai-aws-ec2-an-zhuang-ubuntu-2/)
     * [3.4 macOS 登入 AWS EC2 教學](https://oranwind.org/-aws-macos-deng-ru-aws-ec2-jiao-xue/)
     * 3.5 Windows 登入 AWS EC2 教學
        * [將 AWS EC2 的 .pem 檔轉換為 .ppk 檔教學](https://oranwind.org/-aws-jiang-aws-ec2-de-pem-dang-zhuan-huan-wei-ppk-dang-jiao-xue/)
