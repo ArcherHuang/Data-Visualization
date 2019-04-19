@@ -2,8 +2,6 @@
 
 * MQTT
   * [認識 MQTT](https://oranwind.org/-broker-ren-shi-mqtt/)
-* JSON 與 XML
-  * 簡介
 * 感測資料收集與資料視覺化實作範例
   * 1、MediaTek Cloud Sandbox
     * [1.1 實作情境](https://oranwind.org/-data-visualization-gan-ce-zi-liao-shou-ji-yu-zi-liao-shi-jue-hua-shi-zuo-qing-jing-mcs/)
