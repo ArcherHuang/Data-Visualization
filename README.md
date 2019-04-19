@@ -1,7 +1,7 @@
 # 物聯網資料收集與視覺化實作案例
 
 * MQTT
-  * 簡介
+  * [認識 MQTT](https://oranwind.org/-broker-ren-shi-mqtt/)
 * JSON 與 XML
   * 簡介
 * 感測資料收集與資料視覺化實作範例
