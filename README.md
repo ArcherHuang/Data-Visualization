@@ -38,7 +38,7 @@
     * [3.8 在 AWS EC2 安裝 Node-RED](https://oranwind.org/-aws-zai-aws-ec2-an-zhuang-node-red/)
     * [3.9 Node-RED 設定串接 Mosquitto MQTT Broker](https://oranwind.org/-mqtt-node-red-she-ding-chuan-jie-mosquitto/)
     * [3.10 在 AWS EC2 安裝 InfluxDB](https://oranwind.org/post-post-12/)
-    * [3.11 在 AWS EC2 安裝 Grafana]()
+    * [3.11 在 AWS EC2 安裝 Grafana](https://oranwind.org/post-post-13/)
     * [3.12 Node-RED 串接 InfluxDB]()
     * [3.13 Grafana 串接 InfluxDB]()
     * [3.14 設備端串接 Mosquitto]()
