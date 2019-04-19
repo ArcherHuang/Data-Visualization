@@ -40,5 +40,5 @@
     * [3.10 在 AWS EC2 安裝 InfluxDB](https://oranwind.org/post-post-12/)
     * [3.11 在 AWS EC2 安裝 Grafana](https://oranwind.org/post-post-13/)
     * [3.12 Grafana 串接 InfluxDB](https://oranwind.org/post-post-15/)
-    * [3.13 Node-RED 串接 InfluxDB]()
+    * [3.13 Node-RED 串接 InfluxDB](https://oranwind.org/post-post-14/)
     * [3.14 設備端串接 Mosquitto]()
